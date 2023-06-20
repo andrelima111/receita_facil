@@ -1,0 +1,6 @@
+# Receita fácil 
+
+## Nesse projeto utilizei requisicoes http utilizando uma api fake onde trás os detalhes da receita. Utilizei também a navegação de paginas.
+
+## Para iniciar
+npx expo start
